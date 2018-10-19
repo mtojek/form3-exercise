@@ -37,4 +37,17 @@ API is covered with BDD tests.
 Run:
 ```
 $ mvn test
+
+...
+Results :
+
+Tests run: 49, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 57.368 s
+[INFO] Finished at: 2018-10-19T19:40:14+02:00
+[INFO] Final Memory: 21M/220M
+[INFO] ------------------------------------------------------------------------
 ```
